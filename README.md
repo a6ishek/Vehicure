@@ -15,5 +15,6 @@ A telematics engineer will be working in Linux environments, either to administe
 The Telematics Control Unit (TCU), which is the central hardware module of the telematics device, has communication interfaces with the in-vehicle network (CAN Bus) and the backend cloud server( GPRS) . TCU collects the crucial vehicle data such as diagnostics data, real time location, and speed of the vehicle (through different interfaces) and sends them to the cloud server over wireless network such as GPRS/cellular/LTE , in a specific packaged format.
 ![image](https://github.com/a6ishek/Vehicure/assets/96303728/28b1f078-e03d-4130-b178-dea78e3f1bfa)
 
+!!PATENTED!!
 
 
